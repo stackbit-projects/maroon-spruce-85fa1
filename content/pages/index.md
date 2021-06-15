@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Enterprise software solutions
-    subtitle: 'We '
+    subtitle: 'Software that your business can rely on '
     actions:
       - label: Learn More
         url: /features
