@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Enterprise software solutions
+    title: Enterprise software solutions...
     subtitle: >-
       Software that your business can rely on to provide competitive edge, day
       in, day out!
